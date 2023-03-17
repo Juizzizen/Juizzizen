@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Juizzizen
-- 👀 I’m interested in cybersecurity and basic coding
-- 🌱 ICT engineering student at JAMK
+- 🌱 ICT engineer
 
 <!---
 Juizzizen/Juizzizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
